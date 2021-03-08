@@ -11,7 +11,7 @@
 #### I'm Joacy Mesquita:
 - Master's Student in Computer Science (PGCC/UEFS);
 - Computer Engineer (UEFS);
-- Full-stack Developer;
+- Full-Stack Developer;
 - In the future, Data Scientist.
 
 ### Technologies of interest
