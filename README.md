@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Joacy&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joacy&hide=TeX&layout=compact)
